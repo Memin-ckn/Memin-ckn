@@ -1,6 +1,6 @@
 # 💫 About Me:
-Recent graduate at Fırat University as a Computer Engineer,<br><br>
-I am working on fun side-projects while looking for looking for long-term jobs. <br><br> 
+An idiot who thought studying Software Engineering was a great and fitting idea.
+Working on side projects as I figure out career choices (wait until something happens) <br><br> 
 
 
 ## 🌐 Socials:
